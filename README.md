@@ -30,7 +30,7 @@ Rutas creadas:
 | `/` | Envio del mensaje |
 
 
-#### Get User
+#### Ruta User
 
 ```http
 GET /api/User
@@ -51,7 +51,7 @@ DELETE /api/User
 ![Imagen de WhatsApp 2024-11-18 a las 09 55 05_8aa28f46](https://github.com/user-attachments/assets/7a1fd90f-91f2-4214-81f2-540babb48709)
 
 
-#### Get Regist
+#### Ruta Regist
 
 ```http
 GET /api/Regist
@@ -70,7 +70,7 @@ DELETE /api/Regist
 ![Imagen de WhatsApp 2024-11-18 a las 09 55 05_7c60fbc4](https://github.com/user-attachments/assets/3e797c9b-b72e-4d12-8682-4fd71833ca42)
 
 
-#### Get Alert
+#### Ruta Alert
 
 ```http
 GET /api/Alerta

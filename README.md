@@ -92,5 +92,5 @@ DELETE /api/Alerta
 
 ## Autor
 
-- [@WalterFox22](https://github.com/WalterFox22)
+**GRUPO 2**.
 
